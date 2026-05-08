@@ -1,0 +1,12 @@
+ip-cidr, 35.212.186.76/32, direct
+ip-cidr, 35.212.247.106/32, direct
+ip-cidr, 43.153.78.151/32, direct
+host, msmp.abchina.com.cn, reject
+host, mall.bilibili.com, reject
+host, passport.bilibili.com, reject
+host-suffix, atta.eu.org, direct
+host-suffix, baoge.org, direct
+host-suffix, deno.dev, direct
+host-suffix, ntmd.eu.org, direct
+host-suffix, ugos.eu.org, direct
+host-suffix, vme50.eu.org, direct
