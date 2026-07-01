@@ -7,7 +7,7 @@ host, passport.bilibili.com, reject
 
 # 智能家居
 # 米家
-host-suffix, xiaomi.iotcplatform.com, direct
+host-suffix, iotcplatform.com, direct
 
 # EU域名直连不走代理
 host-suffix, atta.eu.org, direct
