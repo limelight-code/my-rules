@@ -4,9 +4,15 @@ ip-cidr, 43.153.78.151/32, direct
 host, msmp.abchina.com.cn, reject
 host, mall.bilibili.com, reject
 host, passport.bilibili.com, reject
+
+# 智能家居
+# 米家
+host-suffix, xiaomi.iotcplatform.com, direct
+
+# EU域名直连不走代理
 host-suffix, atta.eu.org, direct
 host-suffix, baoge.org, direct
-host-suffix, deno.dev, direct
 host-suffix, ntmd.eu.org, direct
 host-suffix, ugos.eu.org, direct
 host-suffix, vme50.eu.org, direct
+host-suffix, deno.dev, direct
